@@ -1,0 +1,5430 @@
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNN
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.760870, 
+
+Processing Filename: example.data
+Classifier:kNN
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.695652, 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazyn
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.630435, 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.652174, 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.717391, 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.630435, 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.630435, 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.652174, 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.652174, 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.717391, 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.782609, 
+
+Processing Filename: example.data
+Classifier:kNN
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.826087, 
+
+Processing Filename: example.data
+Classifier:kNN
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.760870, 
+
+Processing Filename: example.data
+Classifier:kNN
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.804348, 
+
+Processing Filename: example.data
+Classifier:knnlazy
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+Bag label accuracy = 0.673913, 
+
+Processing Filename: example.data
+Classifier:MIL_Cross_Validate -t 10 -- kNN –RefNum 5 –CiterRank 5
+Message: Train-Test Split, Boundary: -2,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.728889, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.794444, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.737778, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.751111, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.775556, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.726667, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.767778, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:kNNc2 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNcn -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.738889, 
+
+Processing Filename: example.data
+Classifier:kNNcn -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNcn -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNcn -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNcn -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.781111, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.752222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.803333, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.761111, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.773333, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.772222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.761111, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.792222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.762222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.762222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.758889, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.753333, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.758889, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.761111, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.725556, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.737778, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.781111, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.795556, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.732222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.795556, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.805556, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.728889, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:kNNc -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNN –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:kNNc –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 –RefNum 5 –CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.738889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.795556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.650000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.793333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.657778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.673333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.771111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.651111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.688889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.747778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.651111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.764444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.752222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.722222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.661111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.727778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.804444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.738889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.796667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.717778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.696667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.805556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.747778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.734444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.728889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.714444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.772222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.741111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.737778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.694444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.717778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.855556, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.834444, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.834444, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.851111, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.833333, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.823333, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.764444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.773333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.683333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.674444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.675556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.736667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.692222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.794444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.746667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.708889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.667778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.791111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.703333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.652222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.714444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.664444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.695556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.640000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.792222, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.795556, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.817778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.855556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.795556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.823333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.863333, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.851111, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.877778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.812222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.807778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.816667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.904444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.844444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.784444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.794444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.804444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.812222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.813333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.793333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.794444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.855556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.913333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.905556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.892222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.894444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.923333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.913333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.911111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.934444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.892222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.893333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.922222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.923333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.888889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.903333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.894444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.900000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.946667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.872222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.855556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.913333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.912222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.894444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.892222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.882222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.892222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.925556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.884444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.552222, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.816667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.706667, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.925556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.893333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.882222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.912222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.901111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.894444, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.922222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.861111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.883333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.903333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.913333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.833333, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.834444, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.816667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.828889, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.893333, 
+
+Processing Filename: example.data
+Classifier:kNNmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.883333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.877778, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.855556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.866667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.892222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.882222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.901111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.893333, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.892222, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.883333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.913333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.855556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.861111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.704444, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.575556, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.851111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.901111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.792222, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.877778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.924444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.923333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.861111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.893333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.834444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.913333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.913333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.882222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.866667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.861111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.872222, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.882222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.903333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.926667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.877778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.903333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.901111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.900000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.745556, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 8 -CiterRank 15
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.741111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 8 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.761111, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 4 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzmult -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.877778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.861111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.901111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.901111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.911111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzyinst -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfintnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfintnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, Instance label accuracy = 0.710688, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, Instance label accuracy = 0.712796, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, Instance label accuracy = 0.749896, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 0
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 0
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, Instance label accuracy = 0.681209, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 0
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.784444, Instance label accuracy = 0.662162, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 0
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.803333, Instance label accuracy = 0.741103, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 0
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.794444, Instance label accuracy = 0.684546, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 0
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.793333, Instance label accuracy = 0.719928, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.768889, Instance label accuracy = 0.696657, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.773333, Instance label accuracy = 0.701355, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.793333, Instance label accuracy = 0.730041, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.770000, Instance label accuracy = 0.681781, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.813333, Instance label accuracy = 0.709842, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, Instance label accuracy = 0.706845, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, Instance label accuracy = 0.747577, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.817778, Instance label accuracy = 0.724526, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, Instance label accuracy = 0.686482, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, Instance label accuracy = 0.712494, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.828889, Instance label accuracy = 0.706833, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, Instance label accuracy = 0.736899, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, Instance label accuracy = 0.746054, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, Instance label accuracy = 0.728303, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, Instance label accuracy = 0.730725, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, Instance label accuracy = 0.763140, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.803333, Instance label accuracy = 0.708789, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.795556, Instance label accuracy = 0.686099, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, Instance label accuracy = 0.721643, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.828889, Instance label accuracy = 0.733730, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.813333, Instance label accuracy = 0.706396, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.834444, Instance label accuracy = 0.720211, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.828889, Instance label accuracy = 0.715032, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, Instance label accuracy = 0.743890, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.817778, Instance label accuracy = 0.698240, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, Instance label accuracy = 0.670593, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, Instance label accuracy = 0.692603, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, Instance label accuracy = 0.707218, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, Instance label accuracy = 0.750662, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, Instance label accuracy = 0.768009, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, Instance label accuracy = 0.760020, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, Instance label accuracy = 0.677824, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, Instance label accuracy = 0.722171, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, Instance label accuracy = 0.679613, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.783333, Instance label accuracy = 0.666237, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.805556, Instance label accuracy = 0.730583, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.816667, Instance label accuracy = 0.679355, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, Instance label accuracy = 0.706271, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, Instance label accuracy = 0.685742, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.823333, Instance label accuracy = 0.738306, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, Instance label accuracy = 0.696346, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.823333, Instance label accuracy = 0.731650, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, Instance label accuracy = 0.741798, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.817778, Instance label accuracy = 0.720795, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, Instance label accuracy = 0.703890, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, Instance label accuracy = 0.717659, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.793333, Instance label accuracy = 0.706763, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, Instance label accuracy = 0.737351, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, Instance label accuracy = 0.744592, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, Instance label accuracy = 0.696184, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, Instance label accuracy = 0.720871, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, Instance label accuracy = 0.716755, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.861111, Instance label accuracy = 0.752751, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, Instance label accuracy = 0.716299, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.805556, Instance label accuracy = 0.686346, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.818889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.808889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.805556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.803333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.796667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.813333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.762222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.772222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.804444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.806667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.813333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.784444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.783333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.791111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.792222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.757778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.813333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.796667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.806667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.816667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.804444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.781111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.758889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.774444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.844444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.813333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.771111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.806667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.727778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.833333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.781111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.795556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.738889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.773333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.803333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.801111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 1 -CiterRank 1
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.872222, Instance label accuracy = 0.793079, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 1 -CiterRank 1
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, Instance label accuracy = 0.777637, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 1 -CiterRank 2
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.873333, Instance label accuracy = 0.768202, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 1
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, Instance label accuracy = 0.701058, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 2
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.794444, Instance label accuracy = 0.675000, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 1 -CiterRank 1
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, Instance label accuracy = 0.748799, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 1 -CiterRank 2
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, Instance label accuracy = 0.739410, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 1
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.815556, Instance label accuracy = 0.689368, 
+
+Processing Filename: example.data
+Classifier:knnfinstnew -RefNum 2 -CiterRank 2
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, Instance label accuracy = 0.686834, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.794444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.793333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.793333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.795556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.738889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.752222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 31
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.774444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 33
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.771111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.687778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 31
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.685556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 33
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.674444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.714444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.785556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.802222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.834444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.866667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.861111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.775556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.816667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.807778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.852222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.841111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.817778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.781111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.816667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.824444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.826667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.855556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.813333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.861111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.893333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.873333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.877778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.834444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.861111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.805556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.872222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.911111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.844444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.835556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.901111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.873333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.827778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.817778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.833333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.858889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.852222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.822222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.877778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.848889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.845556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.847778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.828889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.902222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.857778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 7
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 8
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.812222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.837778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 9
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.871111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.868889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.867778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.823333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.856667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.794444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.838889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.881111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.814444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.804444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.846667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.825556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.878889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.836667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.891111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.805556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.678889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 31
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.692222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.716667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 33
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.631111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.642222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 31
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.715556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.694444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 33
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.705556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.672222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.696667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 31
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.664444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.646667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 33
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.644444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.737778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.674444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.718889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.653333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.706667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.673333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.706667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.661111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.705556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.663333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.718889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.782222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.726667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.728889, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.774444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.706667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.723333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.727778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.715556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.695556, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.706667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.761111, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.772222, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.747778, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.743333, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.784444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.644444, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 32
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.706667, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 20
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: example.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 22
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.752222, 

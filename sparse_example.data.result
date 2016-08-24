@@ -1,0 +1,20 @@
+
+Processing Filename: sparse_example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: sparse_example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: sparse_example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: sparse_example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: sparse_example.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 

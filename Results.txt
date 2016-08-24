@@ -1,0 +1,44 @@
+Function used- Fuzzy Citation knn Bag based
+Dataset used- example.data 
+!!!! Run number - 1 !!!!
+Number of references- 10
+Number of citers- 20
+Value of m- 4.900000e+000
+Max Value- 64.222222
+ Mean Value- 64.222222
+ Standard Deviation- 0.000000
+
+
+Function used- Fuzzy Citation knn Bag based
+Dataset used- example.data 
+!!!! Run number - 2 !!!!
+Number of references- 10
+Number of citers- 21
+Value of m- 4.900000e+000
+Max Value- 71.555556
+ Mean Value- 71.555556
+ Standard Deviation- 0.000000
+
+
+Function used- Fuzzy Citation knn Bag based
+Dataset used- example.data 
+!!!! Run number - 3 !!!!
+Number of references- 11
+Number of citers- 21
+Value of m- 4.900000e+000
+Max Value- 69.444444
+ Mean Value- 69.444444
+ Standard Deviation- 0.000000
+
+
+Function used- Fuzzy Citation knn Bag based
+Dataset used- example.data 
+!!!! Run number - 4 !!!!
+Number of references- 11
+Number of citers- 22
+Value of m- 4.900000e+000
+Max Value- 70.555556
+ Mean Value- 70.555556
+ Standard Deviation- 0.000000
+
+

@@ -1,0 +1,14 @@
+" knnfinstnew.m " is the instance-based Fuzzy-Citation-knn approach.
+
+OUTPUT: [test_bl, test_il, test_bp, test_ip]
+FUNCTION CALLING: knnfinstnew(para, train_bags, test_bags)
+
+Here,	test_bl means Test bag label,
+	test_il means Test instance label , 
+	test_bp means Test bag Probability,
+	test_ip means Tset instance Probability
+
+**Instruction to run this:
+MIL_Run('classify -t example.data -sf 1 -- cross_validate -t 10 -- knnfinstnew -RefNum 2 -CiterRank 4');
+
+Rest of the MIL Toolbox functions remains intact.

@@ -1,0 +1,5 @@
+
+Processing Filename: example2.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 0.758333, 

@@ -1,0 +1,35 @@
+
+Processing Filename: milliris.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 1.000000, 
+
+Processing Filename: milliris.data
+Classifier:kNNc1 -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+
+Processing Filename: milliris.data
+Classifier:kNNc1 -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 1.000000, 
+Bag label accuracy = 1.000000, 
+
+Processing Filename: milliris.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 1.000000, 
+
+Processing Filename: milliris.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 1.000000, 
+
+Processing Filename: milliris.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 4
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 1.000000, 
+
+Processing Filename: milliris.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
+Bag label accuracy = 1.000000, 

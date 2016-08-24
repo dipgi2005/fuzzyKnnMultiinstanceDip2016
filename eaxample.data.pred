@@ -1,0 +1,4 @@
+
+Processing Filename: eaxample.data
+Classifier:kNN -RefNum 5 -CiterRank 5
+Message: Cross Validation, Folder: 10,  Shuffled 
