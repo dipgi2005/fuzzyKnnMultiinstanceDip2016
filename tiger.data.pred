@@ -1,0 +1,4 @@
+
+Processing Filename: tiger.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 30
+Message: Cross Validation, Folder: 10,  Shuffled 
