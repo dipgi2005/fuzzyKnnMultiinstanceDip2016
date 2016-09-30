@@ -1,206 +1,2925 @@
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.329825, 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792603, 
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.328655, 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723329, 
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761024, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.712660, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.638549, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.728307, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776814, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755192, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766287, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723755, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761024, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744381, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781792, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744950, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.729587, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776671, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761024, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766430, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745092, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787198, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.729018, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.739687, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.754481, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749929, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765576, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765434, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771408, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755619, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761309, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787340, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755334, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.739118, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.756188, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770697, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744239, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.734282, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771835, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770697, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777098, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776529, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781792, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770697, 
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776245, 
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723329, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.686202, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.739545, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770982, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792603, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787340, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776387, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792319, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749929, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.769986, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.739118, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755619, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.728592, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765292, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765292, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771693, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770982, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776245, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766714, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775818, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766287, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.756046, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771408, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770982, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770982, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782361, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749787, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765861, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797582, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782219, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771977, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771408, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776671, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781935, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.802418, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760882, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760740, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749929, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761166, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765434, 
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.324561, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 1 -CiterRank 4
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.323977, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 2 -CiterRank 5
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 10 -CiterRank 30
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.330117, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 10 -CiterRank 31
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 10 -CiterRank 30
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 10 -CiterRank 30
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 10 -CiterRank 30
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 10 -CiterRank 30
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 10 -CiterRank 30
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 10 -CiterRank 30
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.707310, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 10 -CiterRank 31
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.717544, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 11 -CiterRank 32
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.680702, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfuzzy -RefNum 11 -CiterRank 33
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.707602, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.734795, Instance label accuracy = 0.699838, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 4
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.777193, Instance label accuracy = 0.729115, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 2 -CiterRank 5
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.780994, Instance label accuracy = 0.672044, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 2 -CiterRank 6
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.771053, Instance label accuracy = 0.666863, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.694152, Instance label accuracy = 0.664440, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 4
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.733626, Instance label accuracy = 0.698518, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 2 -CiterRank 5
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.745322, Instance label accuracy = 0.671217, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 2 -CiterRank 6
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.771930, Instance label accuracy = 0.683127, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.748246, Instance label accuracy = 0.712763, 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 4
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-
-Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723186, 
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777240, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766999, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.718208, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.738834, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776529, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770697, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787198, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781935, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761024, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750071, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755050, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776529, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760171, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776671, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770982, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.798151, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761593, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755050, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755619, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782504, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770839, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744950, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755050, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761309, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744808, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776245, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782361, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797724, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792319, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755761, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765576, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777098, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776814, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750213, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781223, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792319, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808108, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782788, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749787, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.728023, 
 
 Processing Filename: atoms_totals.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.802987, 
 
 Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.674269, Instance label accuracy = 0.680108, 
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.717923, 
 
 Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 4
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.674854, Instance label accuracy = 0.613681, 
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.702703, 
 
 Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 2 -CiterRank 5
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.696784, Instance label accuracy = 0.682301, 
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777240, 
 
 Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 2 -CiterRank 6
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.686842, Instance label accuracy = 0.650031, 
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.722333, 
 
 Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 3
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.687135, Instance label accuracy = 0.684045, 
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.718208, 
 
 Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 1 -CiterRank 4
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.691228, Instance label accuracy = 0.669370, 
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787055, 
 
 Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 2 -CiterRank 5
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.686257, Instance label accuracy = 0.658690, 
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755192, 
 
 Processing Filename: atoms_totals.data
-Classifier:knnfinstnew -RefNum 2 -CiterRank 6
-Message: Cross Validation, Folder: 10,  Shuffled 
-Bag label accuracy = 0.692398, Instance label accuracy = 0.639217, 
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.756188, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760171, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775960, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750498, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760882, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755334, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750356, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.754908, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776245, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.798293, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765007, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792745, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765576, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771408, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766430, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755192, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781508, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777383, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782219, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776956, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781792, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777383, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.791607, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755903, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808819, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776956, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755050, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744523, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781650, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761166, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792745, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.798009, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803414, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808819, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776529, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.717639, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.712802, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749787, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.713087, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.691323, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.654196, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781935, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755903, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.813514, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760882, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792888, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745092, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776671, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786913, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760313, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760171, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797724, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766430, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776387, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771550, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755050, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760313, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.788051, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786629, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792888, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787767, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787055, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777098, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792176, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776387, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797582, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755334, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.793030, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750213, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765718, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776814, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770982, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792461, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.813656, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776102, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765718, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771835, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723471, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766287, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787482, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723329, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.670270, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.733713, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776245, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749929, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782219, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786913, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.739118, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771408, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766430, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786913, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766287, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787767, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765576, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776387, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.804125, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.733855, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723471, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797724, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761024, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761024, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797724, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750356, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776245, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744666, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.734566, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771408, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761166, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750498, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781935, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760882, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803129, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760882, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792745, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787055, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755477, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.739403, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770697, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.701991, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765434, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765861, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777240, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765718, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.728734, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755477, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.729018, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765576, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755761, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744808, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760882, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761024, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787340, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771693, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765576, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776529, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787767, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792319, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797866, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786913, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797866, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760455, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777098, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787055, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776671, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760455, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792888, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.798151, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808962, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792176, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782788, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760171, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.739545, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771408, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749787, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.702845, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776956, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755619, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.793030, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723471, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.718065, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787198, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777240, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740114, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745235, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.728307, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766287, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765718, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797440, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760313, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.802845, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745377, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781792, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.802560, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.793314, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782219, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787482, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792888, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755619, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766430, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775960, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787198, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.798435, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787198, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803556, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770413, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803129, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.802987, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.825036, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781935, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781935, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765718, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787340, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770697, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.686913, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750071, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.717923, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750498, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781650, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792745, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744381, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787340, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.729161, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776102, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786771, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787055, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792461, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760882, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781792, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.733997, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787482, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765718, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792888, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792888, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792461, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755334, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765718, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771550, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.722902, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776956, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808393, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786629, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765861, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797724, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781508, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792745, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792034, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.761166, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.754623, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808250, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.793030, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771693, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792745, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.807966, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781935, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755050, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776387, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787340, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.722617, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760597, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.729161, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781508, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771835, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760882, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744808, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765576, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.733997, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750640, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766430, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781650, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792603, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782361, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744808, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.729161, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765718, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771835, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787340, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776671, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.802703, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781223, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749644, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755477, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771835, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770839, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776671, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776387, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770555, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803698, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.799289, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792461, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781508, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.824467, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765149, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766430, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808962, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.712518, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782219, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723613, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.712518, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.739118, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.793599, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744523, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750213, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792603, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750213, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749929, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776529, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760882, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.739687, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782219, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777098, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760740, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765861, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781650, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786344, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760171, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792461, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770697, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808393, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803983, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792888, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808393, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776671, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787198, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771124, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787055, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803129, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781366, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771408, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792034, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792745, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787482, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797724, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797013, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.759886, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787198, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.723613, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.734282, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749929, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.748933, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760455, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749360, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771550, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792461, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787482, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797866, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766145, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745661, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775533, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.749360, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786913, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.777098, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792034, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781792, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781792, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.744666, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803414, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792603, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.786771, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766430, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781935, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787624, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.766003, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808108, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787055, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792176, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.797724, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776956, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792888, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.798151, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.798151, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792176, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781223, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803983, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.793030, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803129, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781792, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803414, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.829018, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776529, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745092, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.759886, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781792, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.718634, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.712376, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760740, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792603, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771408, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792461, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.734282, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.791607, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771693, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770413, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781508, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776956, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776529, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.781935, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770982, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.818777, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760455, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776102, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.733997, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792319, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.776529, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.771266, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782361, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755192, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.803129, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.782077, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755477, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780939, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755192, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.728734, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787198, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.808677, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.793172, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755477, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.792034, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.772262, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.791892, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.813798, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.756046, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.819346, 
+
+Processing Filename: atoms_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.787055, 

@@ -12,11 +12,12 @@ result=0;count=1;
 % !For processing sparsr matrix we need to have -if 1 written after file name.
 for mv=1.2:0.3:5
 for refval=1:15
-    citval1=refval; 
-    citval5=(refval + 5);
-for ctval=citval1:1:citval5    
+    citval1=refval + 2; 
+    citval4=(refval + 4);
+for ctval=citval1:1:citval4
+%ctval=refval + 2;    
 for i=1:n
-    ff=['classify -t ',dataset,' -sf 1 -mval ',num2str(mv),' -- cross_validate -t 10 -- ',func,' -RefNum ',num2str(refval),' -CiterRank ',num2str(ctval)];
+    ff=['classify -t ',dataset,' -sf 1 -mval ',num2str(mv),' -- cross_validate -t 5 -- ',func,' -RefNum ',num2str(refval),' -CiterRank ',num2str(ctval)];
     MIL_Run(ff);
     result(i)=ans.BagAccu;
 end
@@ -31,7 +32,7 @@ if(strcmp(func,'knnfinstnew'))
     fprintf(fid,'Function used- Fuzzy Citation knn Instance based\n');
 else
     fprintf(fid,'Function used- Fuzzy Citation knn Bag based\n');
-end
+%end
 fprintf(fid,'Dataset used- %s \n',dataset);
 fprintf(fid,'!!!! Run number - %d !!!!\n',count);
 fprintf(fid,'Number of references- %d\n',refval);
