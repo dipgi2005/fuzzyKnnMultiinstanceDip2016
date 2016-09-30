@@ -1,0 +1,4 @@
+
+Processing Filename: sparse_trec1.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 20
+Message: Cross Validation, Folder: 5,  Shuffled 
