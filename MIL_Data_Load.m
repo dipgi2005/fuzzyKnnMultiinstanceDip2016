@@ -8,12 +8,12 @@ insts = [];
 
 if preprocess.InputFormat == 1
     %sparse input format
-    strcmd = sprintf('!ReadInput.pl %s 1', filename);
+    strcmd = sprintf('!/usr/bin/perl ReadInput.pl %s 1', filename);
     eval(strcmd);
     D = load(matrix_file);
     insts = spconvert(D);
 else
-    strcmd = sprintf('!ReadInput.pl %s', filename);
+    strcmd = sprintf('!/usr/bin/perl ReadInput.pl %s 1', filename);
     eval(strcmd);    
     insts = load(matrix_file);
 end
