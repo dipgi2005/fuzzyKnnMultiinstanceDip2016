@@ -1,0 +1,5854 @@
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.700000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.690000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.820000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.825000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.825000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.820000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.825000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.820000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.820000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.670000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.700000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.820000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.825000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.820000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.800000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.820000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.825000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.690000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.790000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.720000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.795000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.715000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.725000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.705000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.730000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.755000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.785000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.770000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.775000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.780000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.760000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.765000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.750000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.745000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.710000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.735000, 
+
+Processing Filename: elephant.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.740000, 

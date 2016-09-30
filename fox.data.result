@@ -1,2925 +1,2925 @@
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.525000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.615000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.645000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.645000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.610000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.625000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.800000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.625000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.640000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.705000, 
+Bag label accuracy = 0.635000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.520000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.510000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.515000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.705000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.795000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.790000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.715000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.525000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.525000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.620000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.795000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.620000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.525000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.800000, 
+Bag label accuracy = 0.500000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.525000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.705000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.610000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.510000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.525000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.510000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.610000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.625000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.615000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.715000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.520000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.520000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.710000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.795000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.635000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.700000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.625000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.790000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.715000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.695000, 
+Bag label accuracy = 0.610000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.515000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.625000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.525000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.615000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.620000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.625000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.510000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.795000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.710000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.535000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.795000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.600000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.790000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.515000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.605000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.620000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.715000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.520000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.520000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.540000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.545000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 1 -CiterRank 3
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.510000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 2 -CiterRank 4
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.565000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 3 -CiterRank 5
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.785000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.610000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 4 -CiterRank 6
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.725000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 5 -CiterRank 7
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.610000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 6 -CiterRank 8
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.780000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 7 -CiterRank 9
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.590000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 8 -CiterRank 10
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 9 -CiterRank 11
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.775000, 
+Bag label accuracy = 0.520000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.760000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.555000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 10 -CiterRank 12
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.570000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.720000, 
+Bag label accuracy = 0.550000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 11 -CiterRank 13
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.505000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.530000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 12 -CiterRank 14
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.585000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.755000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.525000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 13 -CiterRank 15
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.735000, 
+Bag label accuracy = 0.525000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.745000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.770000, 
+Bag label accuracy = 0.560000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 14 -CiterRank 16
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.750000, 
+Bag label accuracy = 0.595000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.740000, 
+Bag label accuracy = 0.580000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.765000, 
+Bag label accuracy = 0.575000, 
 
-Processing Filename: tiger.data
+Processing Filename: fox.data
 Classifier:knnfuzzy -RefNum 15 -CiterRank 17
 Message: Cross Validation, Folder: 5,  Shuffled 
-Bag label accuracy = 0.730000, 
+Bag label accuracy = 0.540000, 

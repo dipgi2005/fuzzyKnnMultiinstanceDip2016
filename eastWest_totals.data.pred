@@ -1,0 +1,26 @@
+Testing Bag Label Evaluation:
+Index	Probability	Predict	Truth
+1	0.707704	1	0
+2	0.739342	1	0
+3	0.0034365	0	0
+4	0.744814	1	1
+5	0.680481	1	1
+6	0.36836	0	1
+7	0.00274273	0	1
+8	0.0998431	0	1
+9	0.256231	0	1
+10	0.567444	1	1
+11	0.758367	1	0
+12	0.566795	1	0
+13	0.377504	0	0
+14	0.3775	0	1
+15	0.350714	0	1
+16	0.366415	0	0
+17	0.733097	1	0
+18	0.0212609	0	1
+19	0.730176	1	0
+20	0.739041	1	0
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 

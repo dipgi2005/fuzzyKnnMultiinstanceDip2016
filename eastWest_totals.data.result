@@ -1,0 +1,214 @@
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.350000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.250000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.350000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.450000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.300000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.350000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.500000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.300000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.350000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.450000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.450000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.450000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.300000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.350000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.250000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.300000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.450000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.500000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.300000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.650000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.450000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.300000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.200000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.400000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.500000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.300000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.300000, 
+
+Processing Filename: eastWest_totals.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 

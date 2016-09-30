@@ -1,0 +1,1150 @@
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.830000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.810000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.825000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.820000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 4
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.830000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.830000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.825000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 2 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 5
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.830000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 3 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 6
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 4 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.830000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 7
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.895000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 5 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 8
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 6 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.885000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 9
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 7 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.885000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 10
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.885000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 8 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 11
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 9 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.890000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 12
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 10 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.885000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 13
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.805000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.830000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.900000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 11 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 14
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.885000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 12 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.895000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.815000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 15
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 13 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.885000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 16
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.840000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.820000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 14 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.870000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.855000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.885000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 17
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.900000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.880000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.850000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 18
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 19
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.885000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 19
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.875000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 19
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.860000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 19
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.865000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 15 -CiterRank 19
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.845000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.830000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
+
+Processing Filename: corel1vs2.data
+Classifier:knnfuzzy -RefNum 1 -CiterRank 3
+Message: Cross Validation, Folder: 5,  Shuffled 
+Bag label accuracy = 0.835000, 
